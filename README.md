@@ -2,7 +2,7 @@
 # 강희 *Kang Hee*
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/KKangHHee?pet-id=640212602298798036"
+    src="https://render.gitanimals.org/lines/KKangHHee?pet-id=655287713185522764"
     width="1024"
     height="120"
   />

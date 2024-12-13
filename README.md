@@ -1,19 +1,13 @@
-<!--
-**KKangHHee/KKangHHee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 강희 *Kang Hee*
-👩‍💻 Web Frontend Developer...but, Beginner..
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/KKangHHee?pet-id=640212602298798036"
+    width="1024"
+    height="120"
+  />
+</a>
+👩‍💻 Web Frontend Developer...but, Beginner..<br/>
 📝 The Catholic University of Korea.
 
 #### ✨ Language & Framework & Library

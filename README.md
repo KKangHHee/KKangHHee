@@ -8,8 +8,7 @@
 </a>
 
 👩‍💻 **Web Developer (Backend-Oriented)** <br/>
-📝 The Catholic University of Korea
-
+📝 Major in Computer Engineering
 ---
 
 <table>
